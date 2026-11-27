@@ -1,5 +1,6 @@
 # dtree
 NO AI
+
 A C-based CLI utility that displays the directory tree using ANSI colors and Unicode lines.
 Works on MacOs and Linux (requires `DT_DIR` support in `dirent.h`).
 
